@@ -1,32 +1,26 @@
 ### Hello there! 👋
 
 </a>
-<a href="https://www.linkedin.com/in/swadhin-routray-ba20ab125/">
+<a href="https://https://www.linkedin.com/in/arpitchauhan100/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/swadhinroutray">
+<a href="https://github.com/carpit680">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://twitter.com/routrayswadhin">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-</a>
-<a href="https://www.facebook.com/swadhin.routray.7/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
-</a>
 
 <br />
 <br />
 
-Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year Computer & Communications student from MIT, Manipal.You can check my [website](https://swadhinroutray.com/) out! My interests lie in the domains of server-side development, DevOps, Cloud Dev & Security & Cryptography. 
+I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer India. I dropped out of MIT, Manipal after my second year. You can check my [website](https://arpitchauhan.com/) out! My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack webdev in my free time. I provide freelance services in the above mentioned domains. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-- :zap: Currently working on research related to Cloud based storage and Ethereum blockchains.
-- 🤔 My research interests are with Cloud Networking and Cybersecurity.
+- :zap: Currently working on a Cloud Kitchen startup with the boys.
+- 🤔 I build random projects not limited by any domain.
 - 💬 Ask me about anything, I would love to talk to you!
-- 📫 Please email via swadhin.routray@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1kJTTTTAORMynCPuMxqZdX2-qsRtA7pWf/view?usp=sharing) to get more info.
+- 📫 Please email via carpit680@gmail.com to reach me.
+- 👀 Take a look at my [Resume](https://docs.google.com/document/d/1Fmh9FMY4UMt2pSBSwikxP57ku53uC9fueaHTw4-xoy4/edit?usp=sharing) to know more.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
+ -->
