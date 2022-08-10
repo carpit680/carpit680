@@ -13,7 +13,7 @@
 
 I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer from India. I dropped out of MIT, Manipal after my second year. My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack web dev in my free time. I provide freelance services in the above mentioned domains. You can check my [website](https://arpitchauhan.com/)(under construction) out!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="250" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" height="200" />
 
 **Current Status Quo**
 - :zap: Currently working on a Cloud Kitchen startup with the boys.
@@ -27,11 +27,11 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 <br>
 
 <table align="center">
-  <tr>
-    <th scope="col">
+  <tr border="none!important">
+    <th scope="col" border="none!important">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="most used languages" width="305" height="350" />
     </th>
-    <th scope="col">
+    <th scope="col" border="none!important">
       <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="github stats" width="360" height="350" />
     </th>
   </tr>
