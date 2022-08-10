@@ -22,21 +22,15 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 - 📫 Please email via carpit680@gmail.com to reach me.
 - 👀 Take a look at my [Resume](https://docs.google.com/document/d/1Fmh9FMY4UMt2pSBSwikxP57ku53uC9fueaHTw4-xoy4/edit?usp=sharing) to know more.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="itsnitigya" width="330" height="145" /> <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="itsnitigya" width="330" height="160" />
+---
 
-
-<!-- <table>
+<table>
   <tr>
     <th scope="col">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="most used languages" width="300" height="250" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="most used languages" width="305" height="350" />
     </th>
     <th scope="col">
-      <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="github stats" width="400" height="350" />
+      <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="github stats" width="360" height="350" />
     </th>
   </tr>
-</table> -->
-
-<!-- <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="most used languages" width="300" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="github stats" width="400" height="350" />
-</p> -->
+</table>
