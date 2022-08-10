@@ -26,18 +26,12 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 <br>
 <br>
 
-<style>
-  td, th {
-    border: none!important;
-  }
-</style>
-
-<table align="center">
-  <tr border="none!important">
-    <th scope="col" border="none!important">
+<table align="center" style="border:none!important;">
+  <tr>
+    <th scope="col" style="border:none!important;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="most used languages" width="305" height="350" />
     </th>
-    <th scope="col" border="none!important">
+    <th scope="col" style="border:none!important;">
       <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="github stats" width="360" height="350" />
     </th>
   </tr>
