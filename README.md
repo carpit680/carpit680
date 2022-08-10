@@ -22,6 +22,8 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 - 📫 Please email via carpit680@gmail.com to reach me.
 - 👀 Take a look at my [Resume](https://docs.google.com/document/d/1Fmh9FMY4UMt2pSBSwikxP57ku53uC9fueaHTw4-xoy4/edit?usp=sharing) to know more.
 
+<br>
+
 <table align="center">
   <tr>
     <th scope="col">
