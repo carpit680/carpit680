@@ -13,7 +13,7 @@
 
 I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer from India. I dropped out of MIT, Manipal after my second year. My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack web dev in my free time. I provide freelance services in the above mentioned domains. You can check my [website](https://arpitchauhan.com/)(under construction) out!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="250" />
 
 **Current Status Quo**
 - :zap: Currently working on a Cloud Kitchen startup with the boys.
