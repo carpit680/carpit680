@@ -11,7 +11,7 @@
 <br />
 <br />
 
-I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer from India. I dropped out of MIT, Manipal after my second year. My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack web dev in my free time. I provide freelance services in the above mentioned domains. You can check my [website](https://arpitchauhan.com/) out!
+I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer from India. I dropped out of MIT, Manipal after my second year. My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack web dev in my free time. I provide freelance services in the above mentioned domains. You can check my [website](https://arpitchauhan.com/)(under construction) out!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -22,5 +22,17 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 - 📫 Please email via carpit680@gmail.com to reach me.
 - 👀 Take a look at my [Resume](https://docs.google.com/document/d/1Fmh9FMY4UMt2pSBSwikxP57ku53uC9fueaHTw4-xoy4/edit?usp=sharing) to know more.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
- -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="itsnitigya" width="300" height="250" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="itsnitigya" width="400" height="350" /> -->
+
+<table>
+  <tr>
+    <th scope="col">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpit680&layout=compact&show_icons=true&theme=radical" alt="most used languages" width="300" height="250" />
+    </th>
+    <th scope="col">
+      <img src="https://github-readme-stats.vercel.app/api?username=carpit680&show_icons=true&theme=radical" alt="github stats" width="400" height="350" />
+    </th>
+  </tr>
+</table>
