@@ -26,6 +26,12 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 <br>
 <br>
 
+<style>
+  td, th {
+    border: none!important;
+  }
+</style>
+
 <table align="center">
   <tr border="none!important">
     <th scope="col" border="none!important">
