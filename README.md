@@ -7,6 +7,9 @@
 <a href="https://github.com/carpit680">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
+<a href="https://gitlab.com/carpit680">
+  <img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg" />
+</a>
 
 <br />
 <br />
@@ -21,7 +24,7 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via carpit680@gmail.com to reach me.
 - 👀 Take a look at my [Resume](https://docs.google.com/document/d/1Fmh9FMY4UMt2pSBSwikxP57ku53uC9fueaHTw4-xoy4/edit?usp=sharing) to know more.
-
+**Oh and I am mostly active on [GitLab](https://gitlab.com/carpit680).**
 <br>
 <br>
 <br>
