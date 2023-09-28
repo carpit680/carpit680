@@ -23,8 +23,7 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 - 🤔 I build random projects not limited by any domain.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via carpit680@gmail.com to reach me.
-- 👀 Take a look at my [Resume](https://docs.google.com/document/d/1Fmh9FMY4UMt2pSBSwikxP57ku53uC9fueaHTw4-xoy4/edit?usp=sharing) to know more.
-**Oh and I am mostly active on [GitLab](https://gitlab.com/carpit680).**
+- 👀 Take a look at my [Resume](https://drive.google.com/file/d/1cd61uzqyU3klT-p39qQS9A7tJJhWzTT4/view?usp=sharing) to know more.
 <br>
 <br>
 <br>
