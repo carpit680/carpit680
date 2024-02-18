@@ -19,7 +19,7 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" height="200" />
 
 **Current Status Quo**
-- :zap: Currently working on a Cloud Kitchen startup with the boys.
+- :zap: Currently working on EmbodiedAI.
 - 🤔 I build random projects not limited by any domain.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via carpit680@gmail.com to reach me.
