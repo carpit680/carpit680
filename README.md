@@ -14,7 +14,7 @@
 <br />
 <br />
 
-I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer from India. I dropped out of MIT, Manipal after my second year. My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack web dev in my free time. I provide freelance services in the above mentioned domains. You can check my [website](https://arpitchauhan.com/)(under construction) out!
+I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack Developer from India. I dropped out of MIT, Manipal after my second year. My interests lie in the domains of autonomous robotics including all of software, electronics and mechanical aspects as well as full stack web dev in my free time. I provide freelance services in the above mentioned domains. You can check my [website](https://arpitchauhan.com/)(under really heavy construction) out!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" height="200" />
 
@@ -23,7 +23,7 @@ I'm Arpit Chauhan, a self taught Robotics Software Developer and a MERN Stack De
 - 🤔 I build random projects not limited by any domain.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via carpit680@gmail.com to reach me.
-- 👀 Take a look at my [Resume](https://drive.google.com/file/d/1cd61uzqyU3klT-p39qQS9A7tJJhWzTT4/view?usp=sharing) to know more.
+- 👀 Take a look at my [Resume](https://drive.google.com/drive/folders/1u01iV0RB5hGH2xMacsXoNbnEnPV4UEwL?usp=drive_link) to know more.
 <br>
 <br>
 <br>
