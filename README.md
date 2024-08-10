@@ -39,4 +39,4 @@ I'm Arpit Chauhan, a self-taught Robotics Software and MERN Stack Developer from
   </tr>
 </table>
 
-[![An image of @carpit680's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carpit680)](https://holopin.io/@carpit680)
+<!--[![An image of @carpit680's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carpit680)](https://holopin.io/@carpit680)-->
